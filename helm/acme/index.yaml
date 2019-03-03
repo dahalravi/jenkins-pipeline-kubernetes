@@ -1,0 +1,68 @@
+apiVersion: v1
+entries:
+  acme:
+  - apiVersion: v1
+    created: 2019-03-03T10:47:06.84952271Z
+    description: A Helm chart for Kubernetes
+    digest: sha256:0df89e5b0c4637ea79c6e81a07f95866d32c577a1eb74d1c37c0dec45b47dd7c
+    name: acme
+    urls:
+    - http://127.0.0.1:8879/charts/acme-0.1.0.tgz
+    version: 0.1.0
+  - apiVersion: v1
+    created: 2019-03-03T10:51:46.114596479Z
+    description: A Helm chart for Kubernetes
+    digest: sha256:10977d8ff5c8089ec0420b2be3dff7a3de2440396c62a442d5282e958f2dd87f
+    name: acme
+    urls:
+    - http://127.0.0.1:8879/charts/acme-0.1.0.tgz
+    version: 0.1.0
+  - apiVersion: v1
+    created: 2019-03-03T11:20:37.264277099Z
+    description: A Helm chart for Kubernetes
+    digest: sha256:9edcbdb71b739535caf7f3579ead95fc5fbe9eb4fd74dd07124eddc157a71d26
+    name: acme
+    urls:
+    - http://127.0.0.1:8879/charts/acme-0.1.0.tgz
+    version: 0.1.0
+  - apiVersion: v1
+    created: 2019-03-03T11:27:12.048583799Z
+    description: A Helm chart for Kubernetes
+    digest: sha256:54dedeb48d4c614917ef7eefaa9253e94e1f4651c15ef920921ff8eee1c5aef3
+    name: acme
+    urls:
+    - http://127.0.0.1:8879/charts/acme-0.1.0.tgz
+    version: 0.1.0
+  - apiVersion: v1
+    created: 2019-03-03T11:29:22.568695506Z
+    description: A Helm chart for Kubernetes
+    digest: sha256:e79eb4cf1ebbadcd50bbb0781a248617f1a446b4a699c26c24067f8ee23c5aa2
+    name: acme
+    urls:
+    - http://127.0.0.1:8879/charts/acme-0.1.0.tgz
+    version: 0.1.0
+  - apiVersion: v1
+    created: 2019-03-03T11:40:59.50119476Z
+    description: A Helm chart for Kubernetes
+    digest: sha256:9db35a6cc5669d444183b16fdb7f498a943bb6126d87c0064af5ce489b970551
+    name: acme
+    urls:
+    - http://127.0.0.1:8879/charts/acme-0.1.0.tgz
+    version: 0.1.0
+  - apiVersion: v1
+    created: 2019-03-03T11:46:32.702913431Z
+    description: A Helm chart for Kubernetes
+    digest: sha256:fed7c96d534fb2da042897473aef586bdbf074820be184b28bb306070c185864
+    name: acme
+    urls:
+    - http://127.0.0.1:8879/charts/acme-0.1.0.tgz
+    version: 0.1.0
+  - apiVersion: v1
+    created: 2019-03-03T11:49:53.147809292Z
+    description: A Helm chart for Kubernetes
+    digest: sha256:3a208aa6496a5492f05d4231ca908c9763af41fc94ef64e5af0e6aac8bfc4c75
+    name: acme
+    urls:
+    - http://127.0.0.1:8879/charts/acme-0.1.0.tgz
+    version: 0.1.0
+generated: 2019-03-02T14:32:01.205814252Z
